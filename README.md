@@ -1,5 +1,5 @@
 ## Introduction
-Hello! I'm @AnySpy, a Comp. Sci major at Missouri State University! I have an interest in game development and task automation.
+Hello! I'm [@AnySpy](https://github.com/AnySpy), a Comp. Sci major at Missouri State University! I have an interest in game development and task automation.
 
 ## Cool projects
 I am working on a [World of Warcraft clone](https://github.com/AnySpy/WoWClone) currently! It's going to be completely singleplayer and free, this is my long-term project that I work on as I can.
